@@ -1,0 +1,222 @@
+Final Generation @ 0.1 Mutation Rate
+Best:
+[
+Time: 15
+Course: SLA100A
+Instructor: Numen
+Room: Beach 201
+Fitness: -29.40000000000003
+, 
+Time: 14
+Course: SLA100B
+Instructor: Banks
+Room: Logos 325
+Fitness: -3.8500000000000014
+, 
+Time: 15
+Course: SLA191A
+Instructor: Tyler
+Room: Roman 216
+Fitness: -42.14999999999993
+, 
+Time: 10
+Course: SLA191B
+Instructor: Shaw
+Room: Beach 301
+Fitness: -52.59999999999998
+, 
+Time: 15
+Course: SLA201
+Instructor: Banks
+Room: Frank 119
+Fitness: -30.700000000000017
+, 
+Time: 13
+Course: SLA291
+Instructor: Tyler
+Room: Logos 325
+Fitness: -54.79999999999984
+, 
+Time: 11
+Course: SLA303
+Instructor: Banks
+Room: Logos 325
+Fitness: -38.09999999999999
+, 
+Time: 12
+Course: SLA304
+Instructor: Richards
+Room: Slater 003
+Fitness: -38.199999999999996
+, 
+Time: 11
+Course: SLA394
+Instructor: Richards
+Room: Loft 206
+Fitness: -62.09999999999994
+, 
+Time: 14
+Course: SLA449
+Instructor: Uther
+Room: Roman 201
+Fitness: -44.09999999999993
+, 
+Time: 12
+Course: SLA451
+Instructor: Lock
+Room: Logos 325
+Fitness: -29.200000000000017
+]
+Schedule Score:
+	0.9893139235650446
+
+Group Average @ 0.1 Mutation Rate:
+	0.5203439543496575
+Final Generation @ 0.005 Mutation Rate
+Best:
+[
+Time: 13
+Course: SLA100A
+Instructor: Lock
+Room: Loft 310
+Fitness: -73.89999999999985
+, 
+Time: 13
+Course: SLA100B
+Instructor: Singer
+Room: Loft 206
+Fitness: -53.900000000000006
+, 
+Time: 10
+Course: SLA191A
+Instructor: Lock
+Room: Slater 003
+Fitness: 25.900000000000013
+, 
+Time: 14
+Course: SLA191B
+Instructor: Richards
+Room: Loft 310
+Fitness: -2.399999999999782
+, 
+Time: 14
+Course: SLA201
+Instructor: Glen
+Room: Loft 310
+Fitness: -140.79999999999978
+, 
+Time: 15
+Course: SLA291
+Instructor: Banks
+Room: Roman 216
+Fitness: -39.89999999999984
+, 
+Time: 10
+Course: SLA303
+Instructor: Banks
+Room: Roman 216
+Fitness: -41.899999999999864
+, 
+Time: 10
+Course: SLA304
+Instructor: Zeldin
+Room: Roman 201
+Fitness: -281.9000000000001
+, 
+Time: 15
+Course: SLA394
+Instructor: Uther
+Room: Logos 325
+Fitness: -392.3000000000032
+, 
+Time: 10
+Course: SLA449
+Instructor: Zeldin
+Room: Beach 201
+Fitness: -353.20000000000346
+, 
+Time: 13
+Course: SLA451
+Instructor: Tyler
+Room: Beach 201
+Fitness: -192.60000000000406
+]
+Schedule Score:
+	0.993444603772795
+
+Group Average @ 0.005 Mutation Rate:
+	0.8613256083489759
+Final Generation @ 0.00475 Mutation Rate
+Best:
+[
+Time: 13
+Course: SLA100A
+Instructor: Lock
+Room: Loft 310
+Fitness: -93.89999999999985
+, 
+Time: 13
+Course: SLA100B
+Instructor: Numen
+Room: Frank 119
+Fitness: -139.5000000000004
+, 
+Time: 10
+Course: SLA191A
+Instructor: Lock
+Room: Frank 119
+Fitness: 76.30000000000001
+, 
+Time: 11
+Course: SLA191B
+Instructor: Lock
+Room: Loft 310
+Fitness: 8.50000000000021
+, 
+Time: 14
+Course: SLA201
+Instructor: Richards
+Room: Loft 310
+Fitness: -229.80000000000092
+, 
+Time: 15
+Course: SLA291
+Instructor: Tyler
+Room: Loft 310
+Fitness: -36.89999999999963
+, 
+Time: 10
+Course: SLA303
+Instructor: Singer
+Room: Frank 119
+Fitness: -45.19999999999947
+, 
+Time: 10
+Course: SLA304
+Instructor: Uther
+Room: Beach 301
+Fitness: -415.20000000000186
+, 
+Time: 15
+Course: SLA394
+Instructor: Banks
+Room: Logos 325
+Fitness: -577.0000000000049
+, 
+Time: 10
+Course: SLA449
+Instructor: Glen
+Room: Roman 201
+Fitness: -487.3000000000016
+, 
+Time: 12
+Course: SLA451
+Instructor: Richards
+Room: Roman 201
+Fitness: -218.400000000008
+]
+Schedule Score:
+	1.0
+
+Group Average @ 0.00475 Mutation Rate:
+	0.7832262316047903
